@@ -1,0 +1,6 @@
+[core]
+  editor = vim
+[http]
+  postBuffer = 524288000
+[pull]
+  rebase = true
