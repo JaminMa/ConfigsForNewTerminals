@@ -1,5 +1,4 @@
 
-# ------------
 # BEGIN OF https://raw.githubusercontent.com/JaminMa/ConfigsForNewTerminals/master/.bashrc
 
 # Default $PS1:  \h:\W \u\$
@@ -19,4 +18,3 @@ export NVM_DIR="$HOME/.nvm"
 alias kn='killall node -9'
 
 # END OF https://raw.githubusercontent.com/JaminMa/ConfigsForNewTerminals/master/.bashrc
-# ------------
