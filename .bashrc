@@ -1,3 +1,7 @@
+
+# ------------
+# BEGIN OF https://raw.githubusercontent.com/JaminMa/ConfigsForNewTerminals/master/.bashrc
+
 # Default $PS1:  \h:\W \u\$
 # Date Timestamp User:Directory $: PS1="[ \d \t \u@:\w ] $ "
 # Colored version 30m Black, 31m Red, 32m Green, 33m Yellow, 34m Blue, 35m Purple, 36m Cyan, 37m White
@@ -13,3 +17,6 @@ export NVM_DIR="$HOME/.nvm"
  
 # Aliases
 alias kn='killall node -9'
+
+# END OF https://raw.githubusercontent.com/JaminMa/ConfigsForNewTerminals/master/.bashrc
+# ------------
