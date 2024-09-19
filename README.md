@@ -2,7 +2,9 @@
 
 ## Quick Install Script
 
-`curl https://raw.githubusercontent.com/JaminMa/Scripts/master/initLinux.sh | bash`
+```
+bash -i <(curl -s https://raw.githubusercontent.com/JaminMa/Scripts/master/initLinux.sh)
+```
 
 The command will configure .bashrc, configure git, configure VIM along with plugins, install Node Version Manager, and prompt to generate a SSH key
 
