@@ -17,4 +17,7 @@ export NVM_DIR="$HOME/.nvm"
 # Aliases
 alias kn='killall node -9'
 
+# Disable bell which can flash the terminal
+bind 'set bell-style none'
+
 # END OF https://raw.githubusercontent.com/JaminMa/ConfigsForNewTerminals/master/.bashrc
