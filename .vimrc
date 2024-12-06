@@ -76,3 +76,6 @@ let g:syntastic_check_on_open = 0
 let g:syntastic_check_on_wq = 0
 let g:syntastic_enable_signs=1
 let g:syntastic_cpp_cpplint_args="--extensions=cxx,h"
+
+" Disable visual and audio bell
+set belloff=all
